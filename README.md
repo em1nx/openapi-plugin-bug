@@ -1,10 +1,11 @@
 
 # Environment
 
-OS: maxOS Catalina 10.15.7
-WebStorm: 2020.3
-OpenAPI Specification Plugin: 203.5981.152
-Docker Desktop: 2.5.0.1 (49550)
+OS: maxOS Catalina 10.15.7  
+WebStorm: 2020.3  
+OpenAPI Specification Plugin: 203.5981.152  
+Docker Desktop: 2.5.0.1 (49550)  
+
 
 # Steps to reproduce
 
