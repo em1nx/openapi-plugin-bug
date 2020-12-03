@@ -1,0 +1,16 @@
+
+version: '3.8'
+
+services:
+
+  openapi-plugin-bug:
+    container_name: openapi-plugin-bug
+    volumes:
+      - ./app:/app
+    ports:
+      - 3000:3000
+    image: openapi-plugin-bug:latest
+    build:
+      context: .
+
+
